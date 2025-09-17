@@ -15,6 +15,14 @@ This repository demonstrates my hands-on experience with cybersecurity technolog
 
 ---
 
+## 💼 Real-World Incident Response Projects
+
+These projects demonstrate hands-on experience responding to real cyber incidents outside the homelab environment:
+
+- [Account Takeover & Email Extortion – Incident Response](real-world-incidents/README.md)
+
+---
+
 ## 📂 Repository Structure
 - `siem/` → Security Onion & Wazuh configurations  
 - `firewall/` → pfSense rules, VPN setup, VLAN segmentation  
